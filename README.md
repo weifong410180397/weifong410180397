@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Andy
+- 👀 I’m interested in Statistical Analysis and Data Science
+- 🌱 I’m currently studying at Fu Jen Catholic University, majoring in Mathematics
+- 💞️ I’m looking to collaborate on data-driven projects, especially in the fields of machine learning and predictive analytics
+- 📫 How to reach me: weifong0406@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Fun fact: I can solve a Rubik’s Cube in under 2 minutes!
